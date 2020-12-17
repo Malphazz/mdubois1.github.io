@@ -2,7 +2,7 @@ $(function() {
 
     $("p").hide();
     $("#gif").hide();
-    //$("body").css("background" , "black")
+    $("body").css("background"; "#272822")
 
     $("h1").on( "click", function() {
         $("p:first").show();
