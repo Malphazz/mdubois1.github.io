@@ -8,8 +8,10 @@ h1
     padding: 1.5em;
     border: inset;
     text-align: center;
+    font-family: Impact;
+    color : white;
     box-shadow: 6px 8px 8px;
-    background-color: white;
+    background-color: #227C82;
     width: 50%;
     margin: auto;
     margin-top: 1em;
@@ -22,6 +24,8 @@ p
     text-align: center;
     color : white;
     background-color: #F83737;
+    font-size: 16px;
+    font-family: Impact;
     box-shadow: 6px 8px 8px;
     margin: auto;
     margin-top: 3em;
