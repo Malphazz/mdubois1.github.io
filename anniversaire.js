@@ -2,8 +2,6 @@ $(function() {
 
     $("p").hide();
     $("#gif").hide();
-    $("#gif1").hide();
-    $("#gif2").hide();
     $("body").css("background"; "white")
 
     $("h1").on( "click", function() {
@@ -20,8 +18,6 @@ $(function() {
 
     $("p:eq(2)").on( "click", function() {
         $("#gif").show();
-        $("#gif1").show()
-        $("#gif2").show()
     })
 
 });
