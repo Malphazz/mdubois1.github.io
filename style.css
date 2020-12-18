@@ -30,5 +30,10 @@ p
     margin-top: 3em;
     width: 25%;
 }
-#gif{
+#gif {
     position: relative;
+    position: center;
+    margin-top: 3em;
+    margin-bottom: 10px;
+    margin-left: 34em;
+}
