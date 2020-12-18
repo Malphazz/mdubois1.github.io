@@ -1,6 +1,5 @@
-body
-{
-    background : white;
+body{
+    background: #202020;
 }
 
 h1
@@ -11,7 +10,7 @@ h1
     font-family: Impact;
     color : white;
     box-shadow: 6px 8px 8px;
-    background-color: #227C82;
+    background-color: #009EFF;
     width: 50%;
     margin: auto;
     margin-top: 1em;
@@ -33,8 +32,3 @@ p
 }
 #gif{
     position: relative;
-    position: center;
-    margin-top: 3em;
-    margin-bottom: 10px;
-    margin-left: 34em;
-}

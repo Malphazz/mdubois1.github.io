@@ -1,5 +1,6 @@
-$(function() {
 
+$(function() {
+    $("body").css("backround","#202020")
     $("p").hide();
     $("#gif").hide();
 
